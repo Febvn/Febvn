@@ -2,8 +2,10 @@
 
 # 📟 SYSTEM.ACCESS(FEBRIAN) 📟
 
-<!-- HEADER: HACKER TERMINAL STYLE (FORCE PITCH BLACK) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=T%20E%20C%20H&fontSize=90&fontColor=00FF00&animation=twinkling&fontAlign=50&fontAlignY=50" width="100%" alt="Tech Header">
+<!-- CUSTOM HEADER: TRUE PITCH BLACK + NEON WAVE + T E C H -->
+<img src="header.svg" width="100%" alt="Tech Header">
+
+<!-- TYPING SVG (TRANSPARENT BG TO MERGE) -->
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&center=true&vCenter=true&pause=1000&color=00FF00&background=00000000&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;Welcome:+Febrian;The+Matrix+is+Online..." alt="Typing SVG">
 
