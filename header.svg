@@ -2,7 +2,7 @@
   <!-- Background Pitch Black -->
   <rect width="1000" height="250" fill="#000000" />
   
-  <!-- The Waving Effect (Rumbai-rumbai) at the Top -->
+  <!-- The Waving Effect (Pure Neon Green #00FF00) -->
   <path fill="#00FF00">
     <animate attributeName="d" 
       values="M0 0 H 1000 V 40 Q 750 80 500 40 T 0 40 Z;
@@ -11,30 +11,29 @@
       dur="4s" repeatCount="indefinite" />
   </path>
 
-  <!-- Matrix ASCII Rain Effect -->
+  <!-- Matrix ASCII Rain Effect (Pure Neon Green #00FF00) -->
   <g font-family="monospace" font-size="12" fill="#00FF00">
-    <!-- Multiple columns of falling characters -->
-    <text x="50" y="-10">█<animate attributeName="y" from="-20" to="270" dur="2.5s" repeatCount="indefinite" begin="0s" /><animate attributeName="opacity" values="1;0" dur="2.5s" repeatCount="indefinite" /></text>
-    <text x="150" y="-10">░<animate attributeName="y" from="-20" to="270" dur="3s" repeatCount="indefinite" begin="0.5s" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" /></text>
-    <text x="250" y="-10">▒<animate attributeName="y" from="-20" to="270" dur="2s" repeatCount="indefinite" begin="1s" /><animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite" /></text>
-    <text x="350" y="-10">▓<animate attributeName="y" from="-20" to="270" dur="3.5s" repeatCount="indefinite" begin="0.2s" /><animate attributeName="opacity" values="1;0" dur="3.5s" repeatCount="indefinite" /></text>
-    <text x="450" y="-10">█<animate attributeName="y" from="-20" to="270" dur="2.8s" repeatCount="indefinite" begin="1.5s" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" /></text>
-    <text x="550" y="-10">01<animate attributeName="y" from="-20" to="270" dur="3.2s" repeatCount="indefinite" begin="0.8s" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" /></text>
-    <text x="650" y="-10">10<animate attributeName="y" from="-20" to="270" dur="4.2s" repeatCount="indefinite" begin="1.2s" /><animate attributeName="opacity" values="1;0" dur="4.2s" repeatCount="indefinite" /></text>
-    <text x="750" y="-10">#<animate attributeName="y" from="-20" to="270" dur="2.6s" repeatCount="indefinite" begin="0.4s" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" /></text>
-    <text x="850" y="-10">@<animate attributeName="y" from="-20" to="270" dur="3.8s" repeatCount="indefinite" begin="0.9s" /><animate attributeName="opacity" values="1;0" dur="3.8s" repeatCount="indefinite" /></text>
-    <text x="950" y="-10">&lt;<animate attributeName="y" from="-20" to="270" dur="3.3s" repeatCount="indefinite" begin="1.7s" /><animate attributeName="opacity" values="1;0" dur="3.3s" repeatCount="indefinite" /></text>
+    <text x="50" y="-10">█<animate attributeName="y" from="-20" to="270" dur="2.5s" repeatCount="indefinite" begin="0s" /><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite" /></text>
+    <text x="150" y="-10">01<animate attributeName="y" from="-20" to="270" dur="3s" repeatCount="indefinite" begin="0.5s" /><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite" /></text>
+    <text x="250" y="-10">▓<animate attributeName="y" from="-20" to="270" dur="2s" repeatCount="indefinite" begin="1s" /><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" /></text>
+    <text x="350" y="-10">10<animate attributeName="y" from="-20" to="270" dur="3.5s" repeatCount="indefinite" begin="0.2s" /><animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite" /></text>
+    <text x="450" y="-10">█<animate attributeName="y" from="-20" to="270" dur="2.8s" repeatCount="indefinite" begin="1.5s" /><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite" /></text>
+    <text x="550" y="-10">░<animate attributeName="y" from="-20" to="270" dur="3.2s" repeatCount="indefinite" begin="0.8s" /><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite" /></text>
+    <text x="650" y="-10">█<animate attributeName="y" from="-20" to="270" dur="4.2s" repeatCount="indefinite" begin="1.2s" /><animate attributeName="opacity" values="1;0.2;1" dur="4.2s" repeatCount="indefinite" /></text>
+    <text x="750" y="-10">#<animate attributeName="y" from="-20" to="270" dur="2.6s" repeatCount="indefinite" begin="0.4s" /><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite" /></text>
+    <text x="850" y="-10">█<animate attributeName="y" from="-20" to="270" dur="3.8s" repeatCount="indefinite" begin="0.9s" /><animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite" /></text>
+    <text x="950" y="-10">11<animate attributeName="y" from="-20" to="270" dur="3.3s" repeatCount="indefinite" begin="1.7s" /><animate attributeName="opacity" values="1;0.2;1" dur="3.3s" repeatCount="indefinite" /></text>
   </g>
 
-  <!-- Text TECH ENTHUSIAST in ALL CAPS with Neon Glow -->
-  <text x="50%" y="160" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="70" fill="#00FF00" style="text-shadow: 0 0 25px #00FF00, 0 0 5px #FFFFFF;">
+  <!-- Text TECH ENTHUSIAST (Pure Neon Green #00FF00) -->
+  <text x="50%" y="160" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="70" fill="#00FF00" style="text-shadow: 0 0 20px #00FF00, 0 0 40px #00FF00;">
     TECH ENTHUSIAST
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite" />
   </text>
   
-  <!-- Subtext without the '>' character -->
+  <!-- Subtext (Pure Neon Green #00FF00) -->
   <text x="50%" y="220" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="#00FF00">
     Have you tried the latest update?
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite" />
   </text>
 </svg>
