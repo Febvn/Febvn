@@ -43,9 +43,9 @@
 ---
 
 ## 👾 PROTOCOL: PAC-MAN (V0.1-BETA)
-<!-- Pacman Animation -->
+<!-- Pacman Animation using GitHub-friendly IMG to ensure visibility -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=header&text=PACMAN%20RUNNING...&fontSize=20&fontColor=000000&animation=fadeIn" width="100%">
+  <img src="https://raw.githubusercontent.com/MaySper/MaySper/master/img/pacman.gif" width="100%" alt="Pacman Animation">
 </p>
 
 ---
