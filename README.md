@@ -2,41 +2,8 @@
 
 # 📟 SYSTEM.ACCESS(FEBRIAN) 📟
 
-<!-- HEADER ANIMATION: HACKER ASCII STYLE (ULTRA-WIDE ASPECT RATIO) -->
-<svg width="100%" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="150" fill="#000000" />
-  
-  <!-- Matrix falling code effect (Extended for wide) -->
-  <g font-family="monospace" font-size="10" fill="#003300">
-    <text x="20" y="0">101101<animate attributeName="y" from="-20" to="170" dur="2s" repeatCount="indefinite" begin="0s"/></text>
-    <text x="80" y="0">010110<animate attributeName="y" from="-20" to="170" dur="3s" repeatCount="indefinite" begin="1s"/></text>
-    <text x="140" y="0">111000<animate attributeName="y" from="-20" to="170" dur="2.5s" repeatCount="indefinite" begin="0.5s"/></text>
-    <text x="200" y="0">001100<animate attributeName="y" from="-20" to="170" dur="4s" repeatCount="indefinite" begin="2s"/></text>
-    <text x="260" y="0">101010<animate attributeName="y" from="-20" to="170" dur="3.5s" repeatCount="indefinite" begin="0.2s"/></text>
-    <text x="320" y="0">011001<animate attributeName="y" from="-20" to="170" dur="4.2s" repeatCount="indefinite" begin="1.5s"/></text>
-    <text x="380" y="0">110011<animate attributeName="y" from="-20" to="170" dur="2.8s" repeatCount="indefinite" begin="0.8s"/></text>
-    <text x="440" y="0">100110<animate attributeName="y" from="-20" to="170" dur="3.2s" repeatCount="indefinite" begin="2.2s"/></text>
-    <text x="500" y="0">011101<animate attributeName="y" from="-20" to="170" dur="2.6s" repeatCount="indefinite" begin="0.1s"/></text>
-    <text x="560" y="0">111100<animate attributeName="y" from="-20" to="170" dur="3.1s" repeatCount="indefinite" begin="1.2s"/></text>
-    <text x="620" y="0">000011<animate attributeName="y" from="-20" to="170" dur="2.9s" repeatCount="indefinite" begin="0.6s"/></text>
-    <text x="680" y="0">101001<animate attributeName="y" from="-20" to="170" dur="3.8s" repeatCount="indefinite" begin="1.8s"/></text>
-    <text x="740" y="0">010110<animate attributeName="y" from="-20" to="170" dur="3.4s" repeatCount="indefinite" begin="0.4s"/></text>
-    <text x="800" y="0">110000<animate attributeName="y" from="-20" to="170" dur="4.2s" repeatCount="indefinite" begin="2.5s"/></text>
-    <text x="860" y="0">001111<animate attributeName="y" from="-20" to="170" dur="2.7s" repeatCount="indefinite" begin="0.9s"/></text>
-    <text x="920" y="0">101010<animate attributeName="y" from="-20" to="170" dur="3.6s" repeatCount="indefinite" begin="1.3s"/></text>
-    <text x="980" y="0">111111<animate attributeName="y" from="-20" to="170" dur="2.5s" repeatCount="indefinite" begin="0.7s"/></text>
-  </g>
-
-  <!-- FEBVN Main Text (Optimized for Wide) -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="100" fill="#00FF00" style="text-shadow: 0 0 30px #00FF00;">
-    FEBVN
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
-  </text>
-  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="#008000">
-    -- ACCESSING CORE DATA --
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
-  </text>
-</svg>
+<!-- HEADER: HACKER TERMINAL STYLE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=FEBVN&fontSize=80&fontColor=00FF00&animation=twinkling&fontAlign=50&fontAlignY=50" width="100%" alt="Febvn Banner">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;Welcome:+Febrian;The+Matrix+is+Online...)](https://git.io/typing-svg)
 
@@ -77,30 +44,9 @@
 
 ## 👾 PROTOCOL: PAC-MAN (V0.1-BETA)
 <!-- Pacman Animation -->
-<svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="80" fill="#000000" />
-  <!-- Food Bits -->
-  <rect x="100" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.2s" repeatCount="indefinite" /></rect>
-  <rect x="200" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.4s" repeatCount="indefinite" /></rect>
-  <rect x="300" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.6s" repeatCount="indefinite" /></rect>
-  <rect x="400" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.8s" repeatCount="indefinite" /></rect>
-  <rect x="500" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.0s" repeatCount="indefinite" /></rect>
-  <rect x="600" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.2s" repeatCount="indefinite" /></rect>
-  <rect x="700" y="38" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.4s" repeatCount="indefinite" /></rect>
-  <!-- Pacman -->
-  <g>
-    <path fill="#00FF00" d="M25,25 L45,10 A20,20 0 1,1 45,40 Z">
-      <animateTransform attributeName="transform" type="translate" from="-50 15" to="850 15" dur="6s" repeatCount="indefinite" />
-      <animate attributeName="d" values="M25,25 L45,10 A20,20 0 1,1 45,40 Z; M25,25 L45,25 A20,20 0 1,1 45,25 Z; M25,25 L45,10 A20,20 0 1,1 45,40 Z" dur="0.2s" repeatCount="indefinite" />
-    </path>
-  </g>
-  <!-- Ghost -->
-  <g>
-    <path fill="#008000" d="M15,10 Q15,0 25,0 Q35,0 35,10 L35,25 L31,22 L27,25 L23,22 L19,25 L15,22 Z">
-       <animateTransform attributeName="transform" type="translate" from="-150 30" to="750 30" dur="6s" repeatCount="indefinite" />
-    </path>
-  </g>
-</svg>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=header&text=PACMAN%20RUNNING...&fontSize=20&fontColor=000000&animation=fadeIn" width="100%">
+</p>
 
 ---
 
