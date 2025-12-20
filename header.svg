@@ -26,15 +26,15 @@
     <text x="950" y="-10">&lt;<animate attributeName="y" from="-20" to="270" dur="3.3s" repeatCount="indefinite" begin="1.7s" /><animate attributeName="opacity" values="1;0" dur="3.3s" repeatCount="indefinite" /></text>
   </g>
 
-  <!-- Text T E C H with Strong Neon Glow -->
-  <text x="50%" y="160" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="85" fill="#00FF00" style="text-shadow: 0 0 25px #00FF00, 0 0 5px #FFFFFF;">
-    T E C H
+  <!-- Text Tech Enthusiast with Neon Glow -->
+  <text x="50%" y="160" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="70" fill="#00FF00" style="text-shadow: 0 0 25px #00FF00, 0 0 5px #FFFFFF;">
+    Tech Enthusiast
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
   </text>
   
-  <!-- ACCESSING CORE DATA Subtext -->
+  <!-- Subtext: Have you tried the latest update? -->
   <text x="50%" y="220" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="#00FF00">
-    &gt; ACCESSING CORE DATA...
+    &gt; Have you tried the latest update?
     <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
   </text>
 </svg>
