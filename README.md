@@ -9,7 +9,7 @@
 
 ---
 
-### <span style="color: #00FF00;">🟢 USER IDENTIFICATION</span>
+### <span style="color: #00FF00;">USER IDENTIFICATION</span>
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=gnuterminal&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/ROLE-IT_STUDENT-000000?style=for-the-badge&logo=target&logoColor=00FF00" />
@@ -19,15 +19,15 @@
 <div align="left">
 <font color="#00FF00">
 
-> 🎓 **Computer Science Student at ITERA** (Institut Teknologi Sumatera)  
-> ✉️ **Reach Me:** [dodithalud01@gmail.com](mailto:dodithalud01@gmail.com)
+> **Computer Science Student at ITERA** (Institut Teknologi Sumatera)  
+> **Reach Me:** [dodithalud01@gmail.com](mailto:dodithalud01@gmail.com)
 
 </font>
 </div>
 
 ---
 
-## <span style="color: #00FF00;">💾 TECH_STACK.EXE (NEON_PROTOCOL)</span>
+## <span style="color: #00FF00;">TECH_STACK.EXE (NEON_PROTOCOL)</span>
 
 <p align="left">
   <!-- Bahasa Pemrograman -->
@@ -48,14 +48,14 @@
 
 ---
 
-## <span style="color: #00FF00;">📈 COMMIT_DISTRIBUTION.GRID</span>
+## <span style="color: #00FF00;">COMMIT_DISTRIBUTION.GRID</span>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febvn&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-## <span style="color: #00FF00;">📊 GITHUB STATS</span>
+## <span style="color: #00FF00;">GITHUB STATS</span>
 
 ### <span style="color: #00FF00;">TECHOLIC's Stats</span>
 <img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Stats" />
