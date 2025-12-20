@@ -1,8 +1,6 @@
 <div align="center">
 
-# 📟 SYSTEM.ACCESS(FEBRIAN) 📟
-
-<!-- CUSTOM HEADER: TRUE PITCH BLACK + NEON WAVE + T E C H -->
+<!-- CUSTOM HEADER: TRUE PITCH BLACK + NEON WAVE + TECH ENTHUSIAST -->
 <img src="header.svg" width="100%" alt="Tech Header">
 
 <!-- TYPING SVG (TRANSPARENT BG TO MERGE) -->
@@ -57,22 +55,16 @@
 
 ---
 
-## <span style="color: #00FF00;">👾 PROTOCOL: PAC-MAN (V0.1-BETA)</span>
-<!-- Pacman Animation on Black -->
-<p align="center" style="background-color: #000000;">
-  <img src="https://raw.githubusercontent.com/MaySper/MaySper/master/img/pacman.gif" width="100%" alt="Pacman Animation">
-</p>
+## <span style="color: #00FF00;">📊 GITHUB STATS</span>
 
----
+### <span style="color: #00FF00;">TECHOLIC's Stats</span>
+<img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&theme=matrix&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Stats" />
 
-## <span style="color: #00FF00;">📊 CORE_STATS.LOG</span>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&theme=matrix&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Febvn&theme=matrix&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&border=00FF00" alt="Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&theme=matrix&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Top Langs" />
-</p>
+### <span style="color: #00FF00;">Top Languages</span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&theme=matrix&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="Top Langs" />
+
+### <span style="color: #00FF00;">Streak Stats</span>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Febvn&theme=matrix&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&border=00FF00" alt="Streak" />
 
 ---
 
