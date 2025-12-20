@@ -2,13 +2,10 @@
 
 # 📟 SYSTEM.ACCESS(FEBRIAN) 📟
 
-<!-- TOP WAVING EFFECT (RUMBAI-RUMBAI NEON ON BLACK) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&reversal=false&text=WELCOME&fontSize=30&fontColor=00FF00&animation=fadeIn" width="100%" alt="Neon Waves">
-
-<!-- HEADER: HACKER TERMINAL STYLE (BLACK BACKGROUND) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=FEBVN&fontSize=80&fontColor=00FF00&animation=twinkling&fontAlign=50&fontAlignY=50" width="100%" alt="Febvn Banner">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&background=000000&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;Welcome:+Febrian;The+Matrix+is+Online...)](https://git.io/typing-svg)
+<!-- COMBINED HEADER: WAVING + NAME (NYATUH) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=FEBVN&fontSize=90&fontColor=00FF00&animation=twinkling&fontAlignY=40" width="100%" alt="Febvn Header">
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&center=true&vCenter=true&background=000000&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;Welcome:+Febrian;The+Matrix+is+Online..." alt="Typing SVG">
 
 ---
 
