@@ -58,13 +58,13 @@
 ## <span style="color: #00FF00;">📊 GITHUB STATS</span>
 
 ### <span style="color: #00FF00;">TECHOLIC's Stats</span>
-<img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&theme=matrix&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Stats" />
 
 ### <span style="color: #00FF00;">Top Languages</span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&theme=matrix&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Top Langs" />
 
 ### <span style="color: #00FF00;">Streak Stats</span>
-<img src="https://streak-stats.demolab.com?user=Febvn&theme=matrix&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&border=00FF00&hide_border=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Febvn&theme=dark&background=000000&currStreakNum=00FF00&fire=00FF00&ring=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&stroke=00FF00&hide_border=true" alt="Streak" />
 
 ---
 
