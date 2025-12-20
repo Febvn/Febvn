@@ -2,7 +2,40 @@
 
 # 📟 SYSTEM.ACCESS(FEBRIAN) 📟
 
-<img src="ascii_banner.png" width="100%" alt="Febvn's ASCII Terminal Banner">
+<!-- HEADER ANIMATION: HACKER ASCII STYLE -->
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#000000" />
+  
+  <!-- Matrix falling code effect -->
+  <g font-family="monospace" font-size="10" fill="#003300">
+    <!-- Generated columns of characters -->
+    <text x="50" y="0">10110101<animate attributeName="y" from="-20" to="220" dur="3s" repeatCount="indefinite" begin="0s"/></text>
+    <text x="100" y="0">01011010<animate attributeName="y" from="-20" to="220" dur="4s" repeatCount="indefinite" begin="1s"/></text>
+    <text x="150" y="0">11100011<animate attributeName="y" from="-20" to="220" dur="2.5s" repeatCount="indefinite" begin="0.5s"/></text>
+    <text x="200" y="0">00110011<animate attributeName="y" from="-20" to="220" dur="5s" repeatCount="indefinite" begin="2s"/></text>
+    <text x="250" y="0">10101010<animate attributeName="y" from="-20" to="220" dur="3.5s" repeatCount="indefinite" begin="0.2s"/></text>
+    <text x="300" y="0">01100110<animate attributeName="y" from="-20" to="220" dur="4.2s" repeatCount="indefinite" begin="1.5s"/></text>
+    <text x="350" y="0">11001100<animate attributeName="y" from="-20" to="220" dur="2.8s" repeatCount="indefinite" begin="0.8s"/></text>
+    <text x="400" y="0">10011001<animate attributeName="y" from="-20" to="220" dur="3.2s" repeatCount="indefinite" begin="2.2s"/></text>
+    <text x="450" y="0">01110111<animate attributeName="y" from="-20" to="220" dur="4.5s" repeatCount="indefinite" begin="0.1s"/></text>
+    <text x="500" y="0">11110000<animate attributeName="y" from="-20" to="220" dur="3.1s" repeatCount="indefinite" begin="1.2s"/></text>
+    <text x="550" y="0">00001111<animate attributeName="y" from="-20" to="220" dur="2.9s" repeatCount="indefinite" begin="0.6s"/></text>
+    <text x="600" y="0">10100101<animate attributeName="y" from="-20" to="220" dur="4.8s" repeatCount="indefinite" begin="1.8s"/></text>
+    <text x="650" y="0">01011010<animate attributeName="y" from="-20" to="220" dur="3.4s" repeatCount="indefinite" begin="0.4s"/></text>
+    <text x="700" y="0">11000011<animate attributeName="y" from="-20" to="220" dur="5.2s" repeatCount="indefinite" begin="2.5s"/></text>
+    <text x="750" y="0">00111100<animate attributeName="y" from="-20" to="220" dur="2.7s" repeatCount="indefinite" begin="0.9s"/></text>
+  </g>
+
+  <!-- FEBVN Main Text -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="80" fill="#00FF00" style="text-shadow: 0 0 20px #00FF00;">
+    FEBVN
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
+  </text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="#008000">
+    -- ACCESSING CORE DATA --
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+  </text>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;Welcome:+Febrian;The+Matrix+is+Online...)](https://git.io/typing-svg)
 
@@ -42,11 +75,9 @@
 ---
 
 ## 👾 PROTOCOL: PAC-MAN (V0.1-BETA)
-<!-- Pacman Animation with Matrix Green feel -->
+<!-- Pacman Animation -->
 <svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="100" fill="#000000" rx="0"/>
-  
-  <!-- Food Bits (Pixel Style) -->
   <rect x="100" y="48" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.2s" repeatCount="indefinite" /></rect>
   <rect x="200" y="48" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.4s" repeatCount="indefinite" /></rect>
   <rect x="300" y="48" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.6s" repeatCount="indefinite" /></rect>
@@ -54,16 +85,12 @@
   <rect x="500" y="48" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.0s" repeatCount="indefinite" /></rect>
   <rect x="600" y="48" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.2s" repeatCount="indefinite" /></rect>
   <rect x="700" y="48" width="4" height="4" fill="#00FF00"><animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.4s" repeatCount="indefinite" /></rect>
-
-  <!-- Pacman (Green Block Style) -->
   <g>
     <path fill="#00FF00" d="M25,25 L45,10 A20,20 0 1,1 45,40 Z">
       <animateTransform attributeName="transform" type="translate" from="-50 25" to="850 25" dur="6s" repeatCount="indefinite" />
       <animate attributeName="d" values="M25,25 L45,10 A20,20 0 1,1 45,40 Z; M25,25 L45,25 A20,20 0 1,1 45,25 Z; M25,25 L45,10 A20,20 0 1,1 45,40 Z" dur="0.2s" repeatCount="indefinite" />
     </path>
   </g>
-
-  <!-- Glitch Ghost -->
   <g>
     <path fill="#008000" d="M15,10 Q15,0 25,0 Q35,0 35,10 L35,25 L31,22 L27,25 L23,22 L19,25 L15,22 Z">
        <animateTransform attributeName="transform" type="translate" from="-150 40" to="750 40" dur="6s" repeatCount="indefinite" />
