@@ -2,6 +2,9 @@
 
 # 📟 SYSTEM.ACCESS(FEBRIAN) 📟
 
+<!-- TOP WAVING EFFECT (RUMBAI-RUMBAI NEON) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header" width="100%" alt="Neon Waves">
+
 <!-- HEADER: HACKER TERMINAL STYLE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=FEBVN&fontSize=80&fontColor=00FF00&animation=twinkling&fontAlign=50&fontAlignY=50" width="100%" alt="Febvn Banner">
 
@@ -43,7 +46,7 @@
 ---
 
 ## 👾 PROTOCOL: PAC-MAN (V0.1-BETA)
-<!-- Pacman Animation using GitHub-friendly IMG to ensure visibility -->
+<!-- Pacman Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaySper/MaySper/master/img/pacman.gif" width="100%" alt="Pacman Animation">
 </p>
