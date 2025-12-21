@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG (TRANSPARENT BG TO MERGE) -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&center=true&vCenter=true&pause=1000&color=00FF00&background=00000000&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;The+Matrix+is+Online..." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&center=true&vCenter=true&pause=1000&color=00FF00&background=00000000&width=435&lines=Accessing+Core+Data...;The+Matrix+is+Online..." alt="Typing SVG">
 
 ---
 
