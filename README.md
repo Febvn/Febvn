@@ -47,7 +47,6 @@
 
 ---
 
-## <span style="color: #00FF00;">COMMIT_DISTRIBUTION.GRID</span>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febvn&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
