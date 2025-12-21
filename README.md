@@ -31,23 +31,23 @@
 
 ---
 
-## <span style="color: #00FF00;">COMMIT_DISTRIBUTION.GRID</span>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febvn&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
 ## <span style="color: #00FF00;">GITHUB STATS</span>
-
-### <span style="color: #00FF00;">TECHOLIC's Stats</span>
-<img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Stats" />
 
 ### <span style="color: #00FF00;">Top Languages</span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Top Langs" />
 
+### <span style="color: #00FF00;">TECHOLIC's Stats</span>
+<img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Stats" />
+
 ### <span style="color: #00FF00;">Streak Stats</span>
 <img src="https://streak-stats.demolab.com?user=Febvn&theme=dark&background=000000&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&fire=00FF00&ring=00FF00&stroke=00FF00&hide_border=true" alt="Streak" />
+
+---
+
+## <span style="color: #00FF00;">COMMIT_DISTRIBUTION.GRID</span>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febvn&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
