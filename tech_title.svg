@@ -1,0 +1,41 @@
+<svg width="1000" height="50" viewBox="0 0 1000 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .scrolling-group {
+      animation: scroll 20s linear infinite;
+    }
+    .bg { fill: #000000; }
+  </style>
+  <rect width="1000" height="50" class="bg"/>
+  
+  <g class="scrolling-group">
+    <!-- First Set of Badges -->
+    <g transform="translate(0, 10)">
+      <image xlink:href="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" x="0" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/C++-000000?style=for-the-badge&amp;logo=c%2b%2b&amp;logoColor=00599C" x="110" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/PHP-000000?style=for-the-badge&amp;logo=php&amp;logoColor=777BB4" x="200" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" x="285" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" x="380" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" x="470" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/Linux-000000?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" x="595" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/Git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" x="690" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=007ACC" x="765" y="0" height="30"/>
+    </g>
+    
+    <!-- Duplicate Set for Seamless Loop (starts at x=900) -->
+    <g transform="translate(900, 10)">
+      <image xlink:href="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" x="0" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/C++-000000?style=for-the-badge&amp;logo=c%2b%2b&amp;logoColor=00599C" x="110" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/PHP-000000?style=for-the-badge&amp;logo=php&amp;logoColor=777BB4" x="200" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" x="285" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" x="380" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" x="470" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/Linux-000000?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" x="595" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/Git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" x="690" y="0" height="30"/>
+      <image xlink:href="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=007ACC" x="765" y="0" height="30"/>
+    </g>
+  </g>
+</svg>

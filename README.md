@@ -5,11 +5,11 @@
 
 <!-- TYPING SVG (TRANSPARENT BG TO MERGE) -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&center=true&vCenter=true&pause=1000&color=00FF00&background=00000000&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;Welcome:+Febrian;The+Matrix+is+Online..." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&center=true&vCenter=true&pause=1000&color=00FF00&background=00000000&width=435&lines=Initialising+Shell...;Accessing+Core+Data...;The+Matrix+is+Online..." alt="Typing SVG">
 
 ---
 
-### <span style="color: #00FF00;">USER IDENTIFICATION</span>
+### <span style="color: #00FF00;">ABOUT</span>
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=gnuterminal&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/ROLE-IT_STUDENT-000000?style=for-the-badge&logo=target&logoColor=00FF00" />
@@ -27,23 +27,10 @@
 
 ---
 
-## <span style="color: #00FF00;">TECH_STACK.EXE (NEON_PROTOCOL)</span>
+## <span style="color: #00FF00;">TECH STACK</span>
 
-<p align="left">
-  <!-- Bahasa Pemrograman -->
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2b%2b&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00" />
-  
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00" />
+<p align="center">
+  <img src="tech_title.svg" width="100%" alt="Scrolling Tech Stack">
 </p>
 
 ---
