@@ -25,14 +25,14 @@
     <text x="950" y="160">11<animate attributeName="y" from="170" to="-20" dur="3.3s" repeatCount="indefinite" begin="1.7s" /><animate attributeName="opacity" values="1;0.2;1" dur="3.3s" repeatCount="indefinite" /></text>
   </g>
 
-  <!-- Reverse Text (Green on Black) or Reverse Content -->
+  <!-- Request Collaboration Text -->
   <text x="50%" y="60" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="40" fill="#00FF00" style="text-shadow: 0 0 10px #00FF00;">
-    END TRANSMISSION
+    ESTABLISH CONNECTION
     <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite" />
   </text>
   
   <text x="50%" y="100" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="15" fill="#00FF00">
-    SYSTEM_OFFLINE // GOODBYE_USER
+    OPEN FOR COLLABORATION // LET'S BUILD THE FUTURE TOGETHER
     <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite" />
   </text>
 </svg>
