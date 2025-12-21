@@ -52,7 +52,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=END_TRANSMISSION&fontSize=20&fontColor=00FF00" />
+  <img src="footer.svg" width="100%" alt="Tech Footer" />
 </div>
 
 </div>
