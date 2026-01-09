@@ -5,7 +5,7 @@
 
 ---
 
-### <span style="color: #00FF00;">ABOUT</span>
+### ABOUT
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=gnuterminal&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/ROLE-IT_STUDENT-000000?style=for-the-badge&logo=target&logoColor=00FF00" />
@@ -23,7 +23,7 @@
 
 ---
 
-## <span style="color: #00FF00;">TECH STACK</span>
+## TECH STACK
 
 <p align="center">
   <!-- Original Colored Icons Grid - Expanded with more Skills -->
@@ -32,7 +32,7 @@
 
 ---
 
-## <span style="color: #00FF00;">GITHUB STATS</span>
+## GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febvn&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="Febvn's GitHub Stats" height="170" />
