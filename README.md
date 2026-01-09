@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=gnuterminal&logoColor=000000&labelColor=39FF14" />
   <img src="https://img.shields.io/badge/ROLE-IT_STUDENT-000000?style=for-the-badge&logo=target&logoColor=000000&labelColor=39FF14" />
   <img src="https://img.shields.io/badge/INSTITUTE-ITERA-000000?style=for-the-badge&logo=google-scholar&logoColor=000000&labelColor=39FF14" />
+  <a href="./CV.pdf">
+    <img src="https://img.shields.io/badge/RESUME-VIEW_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=000000&labelColor=39FF14" alt="CV" />
+  </a>
 </p>
 
 <div align="center">
