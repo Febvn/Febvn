@@ -34,15 +34,16 @@
 ## <span style="color: #00FF00;">GITHUB STATS</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Febvn&theme=matrix&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
-<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="Febvn's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febvn&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="Febvn's Top Langs" height="150" />
 </p>
-<br/>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Febvn&theme=dark&background=000000&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&fire=00FF00&ring=00FF00&stroke=00FF00&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Febvn&theme=dark&background=000000&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakLabel=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
