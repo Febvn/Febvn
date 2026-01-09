@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- Original Colored Icons Grid - Expanded with more Skills -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,nextjs,laravel,django,flask,fastapi,mysql,postgres,mongodb,redis,sqlite,linux,docker,nginx,git,github,vscode,postman,figma,tailwind,bootstrap,sass,arduino,firebase,vercel,netlify&perline=12&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,nextjs,laravel,django,flask,fastapi,mysql,postgres,mongodb,redis,sqlite,linux,docker,nginx,git,github,vscode,postman,figma,tailwind,bootstrap,sass,arduino,firebase,vercel,netlify,go&perline=12&theme=dark" alt="Skill Icons" />
 </p>
 
 ---
