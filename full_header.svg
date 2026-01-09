@@ -12,14 +12,18 @@
                 M0 0 H 1000 V 40 Q 750 80 500 40 T 0 40 Z" 
         dur="4s" repeatCount="indefinite" />
     </path>
-    <!-- Matrix Rain -->
+    <!-- Matrix Rain - Expanded to cover full height (350px) -->
     <g font-family="monospace" font-size="12" fill="#00FF00" opacity="0.6">
-      <text x="50" y="-10">█<animate attributeName="y" from="-20" to="200" dur="2.5s" repeatCount="indefinite" /></text>
-      <text x="150" y="-10">01<animate attributeName="y" from="-20" to="200" dur="3s" repeatCount="indefinite" /></text>
-      <text x="350" y="-10">10<animate attributeName="y" from="-20" to="200" dur="3.5s" repeatCount="indefinite" /></text>
-      <text x="550" y="-10">░<animate attributeName="y" from="-20" to="200" dur="3.2s" repeatCount="indefinite" /></text>
-      <text x="750" y="-10">#<animate attributeName="y" from="-20" to="200" dur="2.6s" repeatCount="indefinite" /></text>
-      <text x="950" y="-10">11<animate attributeName="y" from="-20" to="200" dur="3.3s" repeatCount="indefinite" /></text>
+      <text x="50" y="-10">█<animate attributeName="y" from="-20" to="370" dur="2.5s" repeatCount="indefinite" /></text>
+      <text x="150" y="-10">01<animate attributeName="y" from="-20" to="370" dur="3s" repeatCount="indefinite" /></text>
+      <text x="250" y="-10">▓<animate attributeName="y" from="-20" to="370" dur="2s" repeatCount="indefinite" /></text>
+      <text x="350" y="-10">10<animate attributeName="y" from="-20" to="370" dur="3.5s" repeatCount="indefinite" /></text>
+      <text x="450" y="-10">█<animate attributeName="y" from="-20" to="370" dur="2.8s" repeatCount="indefinite" /></text>
+      <text x="550" y="-10">░<animate attributeName="y" from="-20" to="370" dur="3.2s" repeatCount="indefinite" /></text>
+      <text x="650" y="-10">█<animate attributeName="y" from="-20" to="370" dur="4.2s" repeatCount="indefinite" /></text>
+      <text x="750" y="-10">#<animate attributeName="y" from="-20" to="370" dur="2.6s" repeatCount="indefinite" /></text>
+      <text x="850" y="-10">█<animate attributeName="y" from="-20" to="370" dur="3.8s" repeatCount="indefinite" /></text>
+      <text x="950" y="-10">11<animate attributeName="y" from="-20" to="370" dur="3.3s" repeatCount="indefinite" /></text>
     </g>
     <!-- Tech Enthusiast Text -->
     <text x="50%" y="130" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="60" fill="#00FF00" style="text-shadow: 0 0 20px #00FF00;">
@@ -28,7 +32,7 @@
     </text>
     <text x="50%" y="180" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="18" fill="#00FF00">
       Have you tried the latest update?
-      <animate attributeName="opacity" values="1-0.4-1" dur="1.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite" />
     </text>
   </g>
 
