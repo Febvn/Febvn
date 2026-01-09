@@ -1,0 +1,27 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeDown {
+      0% { opacity: 0; transform: translateY(-20px); }
+      5%, 85% { opacity: 1; transform: translateY(0); }
+      95%, 100% { opacity: 0; transform: translateY(20px); }
+    }
+
+    .hacker-label {
+      fill: #39FF14;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      animation: fadeDown 30s infinite;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+
+    .glow {
+      filter: drop-shadow(0 0 8px #39FF14);
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="50%" class="hacker-label glow">ABOUT ME</text>
+</svg>

@@ -5,7 +5,9 @@
 
 ---
 
-### ABOUT
+<p align="center">
+  <img src="about_me_animation.svg" width="100%" alt="About Me Section Header">
+</p>
 <p align="center">
   <img src="name_animation.svg" width="100%" alt="Febrian Valentino Nugroho Name Animation">
 </p>
