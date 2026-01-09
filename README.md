@@ -45,7 +45,9 @@
 
 ---
 
-## GITHUB STATS
+<p align="center">
+  <img src="github_stats_animation.svg" width="100%" alt="Github Stats Section Header">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febvn&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="Febvn's GitHub Stats" height="170" />
