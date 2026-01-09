@@ -31,9 +31,28 @@
     .glow {
       filter: drop-shadow(0 0 8px #39FF14);
     }
+
+    .rain-text {
+      font-family: monospace;
+      font-size: 10px;
+      fill: #39FF14;
+      opacity: 0.3;
+    }
   </style>
   <rect width="100%" height="100%" fill="black"/>
-  <!-- Combined both texts into one SVG for zero padding -->
+  
+  <!-- Digital Rain Effect -->
+  <g class="rain-text">
+    <text x="50" y="-10">█<animate attributeName="y" from="-20" to="120" dur="2s" repeatCount="indefinite" begin="0s" /></text>
+    <text x="150" y="-10">01<animate attributeName="y" from="-20" to="120" dur="3s" repeatCount="indefinite" begin="0.5s" /></text>
+    <text x="250" y="-10">▓<animate attributeName="y" from="-20" to="120" dur="2.5s" repeatCount="indefinite" begin="1s" /></text>
+    <text x="350" y="-10">10<animate attributeName="y" from="-20" to="120" dur="4s" repeatCount="indefinite" begin="0.2s" /></text>
+    <text x="450" y="-10">█<animate attributeName="y" from="-20" to="120" dur="2.8s" repeatCount="indefinite" begin="1.5s" /></text>
+    <text x="550" y="-10">░<animate attributeName="y" from="-20" to="120" dur="3.5s" repeatCount="indefinite" begin="0.8s" /></text>
+    <text x="650" y="-10">█<animate attributeName="y" from="-20" to="120" dur="4.2s" repeatCount="indefinite" begin="1.2s" /></text>
+    <text x="750" y="-10">#<animate attributeName="y" from="-20" to="120" dur="2.6s" repeatCount="indefinite" begin="0.4s" /></text>
+  </g>
+
   <text x="50%" y="35" class="hacker-label glow">ABOUT ME</text>
   <text x="50%" y="75" class="hacker-name glow">FEBRIAN VALENTINO NUGROHO</text>
 </svg>
