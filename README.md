@@ -1,9 +1,4 @@
-<div align="center">
-
-<!-- CUSTOM HEADER: TRUE PITCH BLACK + NEON WAVE + TECH ENTHUSIAST -->
-<img src="header.svg" width="100%" alt="Tech Header">
-<img src="about_combined.svg" width="100%" alt="About Me and Name Animation">
-<br/>
+<img src="full_header.svg" width="100%" alt="Full Hacker Header">
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=gnuterminal&logoColor=000000&labelColor=39FF14" />
