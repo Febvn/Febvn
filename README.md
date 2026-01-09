@@ -38,13 +38,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febvn&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="Febvn's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Febvn&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="Febvn's GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Febvn&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true" alt="Febvn's Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Febvn&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&langs_count=6" alt="Febvn's Top Langs" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Febvn&theme=dark&background=000000&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakLabel=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Febvn&theme=dark&background=000000&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakLabel=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
