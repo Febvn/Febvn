@@ -29,12 +29,19 @@
 
 ---
 
-## TECH STACK
-
-<p align="center">
-  <!-- Original Colored Icons Grid - Expanded with more Skills -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,nextjs,laravel,django,flask,fastapi,mysql,postgres,mongodb,redis,sqlite,linux,docker,nginx,git,github,vscode,postman,figma,tailwind,bootstrap,sass,arduino,firebase,vercel,netlify,go&perline=12&theme=dark" alt="Skill Icons" />
-</p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <img src="tech_stack_animation.svg" width="100%" alt="Tech Stack Section Header">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Original Colored Icons Grid - Expanded with more Skills -->
+      <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,nextjs,laravel,django,flask,fastapi,mysql,postgres,mongodb,redis,sqlite,linux,docker,nginx,git,github,vscode,postman,figma,tailwind,bootstrap,sass,arduino,firebase,vercel,netlify,go&perline=12&theme=dark" alt="Skill Icons" />
+    </td>
+  </tr>
+</table>
 
 ---
 
