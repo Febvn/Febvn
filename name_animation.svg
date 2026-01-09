@@ -1,0 +1,28 @@
+<svg fill="none" viewBox="0 0 800 60" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeUpDown {
+      0%, 100% { opacity: 0; transform: translateY(20px); }
+      5%, 85% { opacity: 1; transform: translateY(0); }
+      90%, 95% { opacity: 0; transform: translateY(-20px); }
+    }
+
+    .hacker-text {
+      fill: #39FF14;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 32px;
+      font-weight: bold;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      animation: fadeUpDown 30s infinite;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+
+    .glitch-effect {
+      fill: #39FF14;
+      filter: drop-shadow(0 0 5px #39FF14);
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="50%" class="hacker-text glitch-effect">FEBRIAN VALENTINO NUGROHO</text>
+</svg>
