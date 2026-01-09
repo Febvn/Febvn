@@ -26,7 +26,13 @@
 ## <span style="color: #00FF00;">TECH STACK</span>
 
 <p align="center">
-  <img src="tech_stack.svg" width="100%" alt="Scrolling Tech Stack">
+  <!-- Hacker Terminal Tech Stack -->
+  <img src="https://metrics.lecoq.io/Febvn?template=terminal&base=0&languages=1&languages.limit=15&languages.colors=github&theme=terminal" width="100%" alt="Tech Stack Terminal" />
+</p>
+
+<p align="center">
+  <!-- Original Colored Icons Grid -->
+  <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,laravel,mysql,linux,docker,git,github,vscode,mongodb,firebase,arduino&theme=dark" alt="Skill Icons" />
 </p>
 
 ---
