@@ -34,7 +34,7 @@
 ## <span style="color: #00FF00;">GITHUB STATS</span>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Febvn&theme=matrix&no-bg=false&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Febvn&theme=matrix&no-bg=false&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -44,11 +44,11 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Febvn?template=terminal&base=header,activity,community,repositories&languages=1&languages.limit=8&languages.colors=github&theme=terminal" alt="GitHub Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/Febvn?template=terminal&base.header=0&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.colors=github&theme=terminal" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Febvn&theme=dark&background=000000&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakLabel=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats-six.vercel.app/?user=Febvn&theme=dark&background=000000&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakLabel=00FF00&stroke=000000&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
