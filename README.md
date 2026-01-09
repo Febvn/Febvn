@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/febrian-valentino-nugroho-b41a01283/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF00" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/628979100130">
+  <a href="https://wa.me/628979100130?text=Lets%20work%20together">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-000000?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=00FF00" alt="WhatsApp" />
   </a>
 </p>
