@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-dodithalud01@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=39FF14" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/febrian-valentino-nugroho-b41a01283/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=39FF14" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=LINKEDIN&message=CONNECT&color=000000&labelColor=39FF14&style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/628979100130?text=Lets%20work%20together">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-000000?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=39FF14" alt="WhatsApp" />
