@@ -1,0 +1,124 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .scrolling-group {
+      animation: scroll 30s linear infinite;
+    }
+    .scrolling-group-reverse {
+      animation: scroll 35s linear infinite reverse;
+    }
+    .bg { fill: #000000; }
+    .badge-bg { fill: #000000; stroke: #00FF00; stroke-width: 1; }
+    .label-text { fill: #00FF00; font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 13px; }
+  </style>
+  <rect width="1000" height="150" class="bg"/>
+  
+  <!-- ROW 1: CORE LANGUAGES (Left to Right) -->
+  <g class="scrolling-group">
+    <g transform="translate(0, 10)">
+      <g id="row1-content">
+        <g transform="translate(0, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">PYTHON</text>
+        </g>
+        <g transform="translate(130, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">C++</text>
+        </g>
+        <g transform="translate(205, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="50" height="30" rx="4" class="badge-bg"/><text x="60" y="25" text-anchor="middle" class="label-text">GO</text>
+        </g>
+        <g transform="translate(270, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">RUST</text>
+        </g>
+        <g transform="translate(345, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">JAVA</text>
+        </g>
+        <g transform="translate(420, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="50" height="30" rx="4" class="badge-bg"/><text x="60" y="25" text-anchor="middle" class="label-text">PHP</text>
+        </g>
+        <g transform="translate(485, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">RUBY</text>
+        </g>
+        <g transform="translate(560, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">SWIFT</text>
+        </g>
+        <g transform="translate(635, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">KOTLIN</text>
+        </g>
+        <g transform="translate(730, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">DART</text>
+        </g>
+      </g>
+      <!-- Duplicate Set for Seamless Loop -->
+      <use xlink:href="#row1-content" x="850"/>
+    </g>
+  </g>
+
+  <!-- ROW 2: WEB & TOOLS (Right to Left) -->
+  <g class="scrolling-group-reverse">
+    <g transform="translate(0, 55)">
+      <g id="row2-content">
+        <g transform="translate(0, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="70" height="30" rx="4" class="badge-bg"/><text x="70" y="25" text-anchor="middle" class="label-text">HTML5</text>
+        </g>
+        <g transform="translate(120, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="60" height="30" rx="4" class="badge-bg"/><text x="65" y="25" text-anchor="middle" class="label-text">CSS3</text>
+        </g>
+        <g transform="translate(195, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="100" height="30" rx="4" class="badge-bg"/><text x="85" y="25" text-anchor="middle" class="label-text">JAVASCRIPT</text>
+        </g>
+        <g transform="translate(310, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="100" height="30" rx="4" class="badge-bg"/><text x="85" y="25" text-anchor="middle" class="label-text">TYPESCRIPT</text>
+        </g>
+        <g transform="translate(425, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="70" height="30" rx="4" class="badge-bg"/><text x="70" y="25" text-anchor="middle" class="label-text">REACT</text>
+        </g>
+        <g transform="translate(510, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="90" height="30" rx="4" class="badge-bg"/><text x="80" y="25" text-anchor="middle" class="label-text">NODE.JS</text>
+        </g>
+        <g transform="translate(615, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">LARAVEL</text>
+        </g>
+        <g transform="translate(710, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="70" height="30" rx="4" class="badge-bg"/><text x="70" y="25" text-anchor="middle" class="label-text">MYSQL</text>
+        </g>
+      </g>
+      <use xlink:href="#row2-content" x="850"/>
+    </g>
+  </g>
+
+  <!-- ROW 3: DEVOPS & SYSTEMS (Left to Right) -->
+  <g class="scrolling-group">
+    <g transform="translate(0, 100)">
+      <g id="row3-content">
+        <g transform="translate(0, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="70" height="30" rx="4" class="badge-bg"/><text x="70" y="25" text-anchor="middle" class="label-text">LINUX</text>
+        </g>
+        <g transform="translate(120, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">DOCKER</text>
+        </g>
+        <g transform="translate(215, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="50" height="30" rx="4" class="badge-bg"/><text x="60" y="25" text-anchor="middle" class="label-text">GIT</text>
+        </g>
+        <g transform="translate(280, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">GITHUB</text>
+        </g>
+        <g transform="translate(375, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">VSCODE</text>
+        </g>
+        <g transform="translate(470, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="90" height="30" rx="4" class="badge-bg"/><text x="80" y="25" text-anchor="middle" class="label-text">MONGODB</text>
+        </g>
+        <g transform="translate(575, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="90" height="30" rx="4" class="badge-bg"/><text x="80" y="25" text-anchor="middle" class="label-text">FIREBASE</text>
+        </g>
+        <g transform="translate(680, 0)">
+          <image xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" x="0" y="5" width="30" height="30"/><rect x="35" y="5" width="80" height="30" rx="4" class="badge-bg"/><text x="75" y="25" text-anchor="middle" class="label-text">ARDUINO</text>
+        </g>
+      </g>
+      <use xlink:href="#row3-content" x="850"/>
+    </g>
+  </g>
+</svg>

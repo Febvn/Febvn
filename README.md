@@ -26,7 +26,7 @@
 ## <span style="color: #00FF00;">TECH STACK</span>
 
 <p align="center">
-  <img src="tech_title.svg" width="100%" alt="Scrolling Tech Stack">
+  <img src="tech_stack.svg" width="100%" alt="Scrolling Tech Stack">
 </p>
 
 ---
