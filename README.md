@@ -6,13 +6,13 @@
 ---
 
 ### ABOUT
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=gnuterminal&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/ROLE-IT_STUDENT-000000?style=for-the-badge&logo=target&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/INSTITUTE-ITERA-000000?style=for-the-badge&logo=google-scholar&logoColor=00FF00" />
 </p>
 
-<div align="left">
+<div align="center">
 <font color="#00FF00">
 
 > **Computer Science Student at ITERA** (Institut Teknologi Sumatera)  
