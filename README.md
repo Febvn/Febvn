@@ -13,12 +13,25 @@
 </p>
 
 <div align="center">
+
 <font color="#00FF00">
 
-> **Computer Science Student at ITERA** (Institut Teknologi Sumatera)  
-> **Reach Me:** [dodithalud01@gmail.com](mailto:dodithalud01@gmail.com)
+> **Computer Science Student at ITERA** (Institut Teknologi Sumatera)
 
 </font>
+
+<p align="center">
+  <a href="mailto:dodithalud01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dodithalud01@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=00FF00" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/febrian-valentino-nugroho-b41a01283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF00" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/628979100130">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-000000?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=00FF00" alt="WhatsApp" />
+  </a>
+</p>
+
 </div>
 
 ---
