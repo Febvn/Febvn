@@ -38,10 +38,18 @@
 
 ---
 
-<p align="center">
-  <img src="github_stats_animation.svg" width="100%" alt="Github Stats Section Header">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febvn&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <img src="github_stats_animation.svg" width="100%" alt="Github Stats Section Header">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febvn&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febvn&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="Febvn's GitHub Stats" height="170" />
   &nbsp;
