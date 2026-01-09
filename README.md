@@ -38,9 +38,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febvn&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="Febvn's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Febvn&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&count_private=true" alt="Febvn's GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Febvn&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&langs_count=6" alt="Febvn's Top Langs" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Febvn&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&langs_count=6" alt="Febvn's Top Langs" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Febvn?template=terminal&base=header,activity,community,repositories&languages=1&languages.limit=8&languages.colors=github&theme=terminal" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
