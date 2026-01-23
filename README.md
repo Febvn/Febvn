@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-000000?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=39FF14" alt="WhatsApp" />
   </a>
   <a href="https://febvn.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-000000?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=39FF14" alt="Portfolio" />
+    <img src="portfolio_animation.svg" width="100%" alt="Portfolio Animation" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">
       <!-- Original Colored Icons Grid - Expanded with more Skills -->
-      <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,nextjs,laravel,django,flask,fastapi,mysql,postgres,mongodb,redis,sqlite,linux,docker,nginx,git,github,vscode,postman,figma,tailwind,bootstrap,sass,arduino,firebase,vercel,netlify,go&perline=12&theme=dark" alt="Skill Icons" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,php,html,css,js,ts,java,nodejs,react,nextjs,laravel,django,flask,fastapi,mysql,postgres,mongodb,Godot,sqlite,linux,docker,nginx,git,github,vscode,postman,figma,tailwind,bootstrap,sass,arduino,firebase,vercel,netlify,go&perline=12&theme=dark" alt="Skill Icons" />
     </td>
   </tr>
 </table>

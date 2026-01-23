@@ -1,0 +1,47 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeDown {
+      0% { opacity: 0; transform: translateY(-20px); }
+      5%, 85% { opacity: 1; transform: translateY(0); }
+      95%, 100% { opacity: 0; transform: translateY(20px); }
+    }
+
+    .hacker-label {
+      fill: #39FF14;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      animation: fadeDown 30s infinite;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+
+    .glow {
+      filter: drop-shadow(0 0 8px #39FF14);
+    }
+
+    .rain-text {
+      font-family: monospace;
+      font-size: 10px;
+      fill: #39FF14;
+      opacity: 0.3;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+
+  <!-- Digital Rain Effect -->
+  <g class="rain-text">
+    <text x="50" y="-10">█<animate attributeName="y" from="-20" to="70" dur="2.5s" repeatCount="indefinite" begin="0s" /></text>
+    <text x="150" y="-10">JS<animate attributeName="y" from="-20" to="70" dur="3s" repeatCount="indefinite" begin="0.5s" /></text>
+    <text x="250" y="-10">PY<animate attributeName="y" from="-20" to="70" dur="2s" repeatCount="indefinite" begin="1s" /></text>
+    <text x="350" y="-10">PHP<animate attributeName="y" from="-20" to="70" dur="3.5s" repeatCount="indefinite" begin="0.2s" /></text>
+    <text x="450" y="-10">█<animate attributeName="y" from="-20" to="70" dur="2.8s" repeatCount="indefinite" begin="1.5s" /></text>
+    <text x="550" y="-10">01<animate attributeName="y" from="-20" to="70" dur="3.2s" repeatCount="indefinite" begin="0.8s" /></text>
+    <text x="650" y="-10">#<animate attributeName="y" from="-20" to="70" dur="4.2s" repeatCount="indefinite" begin="1.2s" /></text>
+    <text x="750" y="-10">█<animate attributeName="y" from="-20" to="70" dur="2.6s" repeatCount="indefinite" begin="0.4s" /></text>
+  </g>
+
+  <text x="50%" y="50%" class="hacker-label glow">PORTOFOLIO</text>
+</svg>
