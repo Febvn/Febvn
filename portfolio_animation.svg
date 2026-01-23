@@ -29,7 +29,7 @@
       opacity: 0.3;
     }
   </style>
-  <rect width="100%" height="100%" fill="black"/>
+  <rect width="99%" height="96%" x="0.5%" y="2%" fill="black" stroke="#39FF14" stroke-width="2" rx="5" />
 
   <!-- Digital Rain Effect -->
   <g class="rain-text">
@@ -43,5 +43,5 @@
     <text x="750" y="-10">█<animate attributeName="y" from="-20" to="70" dur="2.6s" repeatCount="indefinite" begin="0.4s" /></text>
   </g>
 
-  <text x="50%" y="50%" class="hacker-label glow">PORTOFOLIO</text>
+  <text x="50%" y="50%" class="hacker-label glow">[ CLICK ]</text>
 </svg>
