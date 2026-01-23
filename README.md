@@ -23,6 +23,9 @@
   <a href="https://wa.me/628979100130?text=Lets%20work%20together">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-000000?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=39FF14" alt="WhatsApp" />
   </a>
+  <a href="https://febvn.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-000000?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=39FF14" alt="Portfolio" />
+  </a>
 </p>
 
 </div>
